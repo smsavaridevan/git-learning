@@ -1,2 +1,2 @@
 # git-learning
-this is for git learning purpose
+This is for git learning purpose
